@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="JuliusOnPurpose Foundation">
+  <rect width="520" height="120" rx="22" fill="#ffffff"/>
+  <circle cx="60" cy="60" r="42" fill="#ff4f7b"/>
+  <path d="M48 36h24v45c0 10-5 17-17 17-8 0-14-3-18-8l11-12c2 3 4 4 7 4 2 0 4-1 4-5V50H48z" fill="#ffffff"/>
+  <text x="120" y="55" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800" fill="#272735">JuliusOnPurpose</text>
+  <text x="121" y="82" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.2" font-weight="700" fill="#777783">FOUNDATION SHOP</text>
+</svg>
